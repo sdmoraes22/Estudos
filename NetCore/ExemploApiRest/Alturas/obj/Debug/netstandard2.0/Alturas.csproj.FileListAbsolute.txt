@@ -1,0 +1,9 @@
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/bin/Debug/netstandard2.0/Alturas.deps.json
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/bin/Debug/netstandard2.0/Alturas.dll
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/bin/Debug/netstandard2.0/Alturas.pdb
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/obj/Debug/netstandard2.0/Alturas.csprojAssemblyReference.cache
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/obj/Debug/netstandard2.0/Alturas.csproj.CoreCompileInputs.cache
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfoInputs.cache
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfo.cs
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/obj/Debug/netstandard2.0/Alturas.dll
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/obj/Debug/netstandard2.0/Alturas.pdb

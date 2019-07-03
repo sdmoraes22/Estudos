@@ -1,0 +1,17 @@
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.deps.json
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.runtimeconfig.json
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.runtimeconfig.dev.json
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.dll
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.pdb
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/bin/Debug/netcoreapp2.2/Alturas.dll
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/bin/Debug/netcoreapp2.2/Alturas.pdb
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csprojAssemblyReference.cache
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csproj.CoreCompileInputs.cache
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorAssemblyInfo.cache
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorAssemblyInfo.cs
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.AssemblyInfoInputs.cache
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.AssemblyInfo.cs
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorTargetAssemblyInfo.cache
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csproj.CopyComplete
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.dll
+/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.pdb

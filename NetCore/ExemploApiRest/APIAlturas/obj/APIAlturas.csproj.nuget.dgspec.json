@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/APIAlturas.csproj": {}
+  },
+  "projects": {
+    "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/APIAlturas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/APIAlturas.csproj",
+        "projectName": "APIAlturas",
+        "projectPath": "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/APIAlturas.csproj",
+        "packagesPath": "/home/cristiano/.nuget/packages/",
+        "outputPath": "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/APIAlturas/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cristiano/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/Alturas.csproj": {
+                "projectPath": "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/Alturas.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/Alturas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/Alturas.csproj",
+        "projectName": "Alturas",
+        "projectPath": "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/Alturas.csproj",
+        "packagesPath": "/home/cristiano/.nuget/packages/",
+        "outputPath": "/home/cristiano/Documentos/Estudos/netcore/ExemploApiRest/Alturas/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cristiano/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
